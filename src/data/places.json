@@ -8,13 +8,13 @@
     {
       "name": "Bhubaneswar",
       "coordinates": [20.2961, 85.8245],
-      "date": "01/01/2012",
+      "date": "01/01/2013",
       "images": ["images/bhubaneswar1.jpg", "images/bhubaneswar2.jpg"]
     },
     {
       "name": "Mysore",
       "coordinates": [12.2958, 76.6394],
-      "date": "01/01/2013",
+      "date": "01/07/2013",
       "images": ["images/mysore1.jpg", "images/mysore2.jpg"]
     },
     {
