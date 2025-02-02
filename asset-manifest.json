@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-travel-map/static/css/main.323d7611.css",
+    "main.js": "/my-travel-map/static/js/main.eb3dc669.js",
+    "static/js/488.40b85946.chunk.js": "/my-travel-map/static/js/488.40b85946.chunk.js",
+    "index.html": "/my-travel-map/index.html",
+    "main.323d7611.css.map": "/my-travel-map/static/css/main.323d7611.css.map",
+    "main.eb3dc669.js.map": "/my-travel-map/static/js/main.eb3dc669.js.map",
+    "488.40b85946.chunk.js.map": "/my-travel-map/static/js/488.40b85946.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.323d7611.css",
+    "static/js/main.eb3dc669.js"
+  ]
+}
