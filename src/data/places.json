@@ -1,0 +1,111 @@
+[
+    {
+      "name": "Patna",
+      "coordinates": [25.5941, 85.1376],
+      "date": "01/01/2008",
+      "images": ["images/patna1.jpg", "images/patna2.jpg"]
+    },
+    {
+      "name": "Bhubaneswar",
+      "coordinates": [20.2961, 85.8245],
+      "date": "01/01/2012",
+      "images": ["images/bhubaneswar1.jpg", "images/bhubaneswar2.jpg"]
+    },
+    {
+      "name": "Mysore",
+      "coordinates": [12.2958, 76.6394],
+      "date": "01/01/2013",
+      "images": ["images/mysore1.jpg", "images/mysore2.jpg"]
+    },
+    {
+      "name": "Bangalore",
+      "coordinates": [12.9716, 77.5946],
+      "date": "01/01/2014",
+      "images": ["images/bangalore1.jpg", "images/bangalore2.jpg"]
+    },
+    {
+      "name": "Hyderabad",
+      "coordinates": [17.3850, 78.4867],
+      "date": "01/01/2016",
+      "images": ["images/hyderabad1.jpg", "images/hyderabad2.jpg"]
+    },
+    {
+      "name": "Brussels",
+      "coordinates": [50.8503, 4.3517],
+      "date": "01/08/2019",
+      "images": ["images/brussels1.jpg", "images/brussels2.jpg"]
+    },
+    {
+      "name": "Paris",
+      "coordinates": [48.8566, 2.3522],
+      "date": "04/08/2019",
+      "images": ["images/paris1.jpg", "images/paris2.jpg"]
+    },
+    {
+      "name": "Amsterdam",
+      "coordinates": [52.3676, 4.9041],
+      "date": "10/08/2019",
+      "images": ["images/amsterdam1.jpg", "images/amsterdam2.jpg"]
+    },
+    {
+      "name": "Barcelona",
+      "coordinates": [41.3851, 2.1734],
+      "date": "12/08/2019",
+      "images": ["images/barcelona1.jpg", "images/barcelona2.jpg"]
+    },
+    {
+      "name": "Rome",
+      "coordinates": [41.9028, 12.4964],
+      "date": "14/08/2019",
+      "images": ["images/rome1.jpg", "images/rome2.jpg"]
+    },
+    {
+      "name": "Venice",
+      "coordinates": [45.4408, 12.3155],
+      "date": "16/08/2019",
+      "images": ["images/venice1.jpg", "images/venice2.jpg"]
+    },
+    {
+      "name": "Budapest",
+      "coordinates": [47.4979, 19.0402],
+      "date": "18/08/2019",
+      "images": ["images/budapest1.jpg", "images/budapest2.jpg"]
+    },
+    {
+      "name": "Prague",
+      "coordinates": [50.0755, 14.4378],
+      "date": "20/08/2019",
+      "images": ["images/prague1.jpg", "images/prague2.jpg"]
+    },
+    {
+      "name": "Patna",
+      "coordinates": [25.5941, 85.1376],
+      "date": "01/01/2021",
+      "images": ["images/patna3.jpg", "images/patna4.jpg"]
+    },
+    {
+      "name": "Seattle",
+      "coordinates": [47.6062, -122.3321],
+      "date": "01/05/2022",
+      "images": ["images/seattle1.jpg", "images/seattle2.jpg"]
+    },
+    {
+      "name": "Leavenworth",
+      "coordinates": [47.5962, -120.6615],
+      "date": "01/12/2022",
+      "images": ["images/leavenworth1.jpg", "images/leavenworth2.jpg"]
+    },
+    {
+      "name": "Los Angeles",
+      "coordinates": [34.0522, -118.2437],
+      "date": "20/12/2022",
+      "images": ["images/la1.jpg", "images/la2.jpg"]
+    },
+    {
+      "name": "Las Vegas",
+      "coordinates": [36.1699, -115.1398],
+      "date": "01/06/2024",
+      "images": ["images/lasvegas1.jpg", "images/lasvegas2.jpg"]
+    }
+  ]
+  
